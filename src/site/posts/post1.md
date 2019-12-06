@@ -1,6 +1,6 @@
 ---
 title: My first post
-date: 2019-12-6
+date: 2019-12-06
 ---
 # This is a new page. 
 
