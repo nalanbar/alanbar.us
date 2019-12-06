@@ -1,4 +1,4 @@
----
+-
 title: My first post
 date: 2019-12-6
 ---
@@ -6,4 +6,4 @@ date: 2019-12-6
 
 ## this is a test page
 
-This is the body of the project
+This is the body of the page. This is a test to verify that I have created the framework for this properly. 
