@@ -1,17 +1,13 @@
 ---
-title: IamNabil Aero 
-subtitle: .The musings of an idiot, who dreamed of flying.<br /> Managed by <a href="https://twitter.com/nabilalanbar">Nabil</a>.
+title: IamNabil Aviation 
+subtitle: The musings of an idiot, who dreamed of flying.<br /> Managed by <a href="https://twitter.com/nabilalanbar">Nabil</a>.
 layout: layouts/base.njk
 ---
+## This site is a training log.
 
-
-## This site is a starting point
-
-This site is meant to capture my aviation career, even though it is not a career, and I don't actually fly. Yet. 
+This site is meant to be a training log. I intend to use it to document my struggles and triumphs as I get my pilots license.
 
 ## Post pages
-
-The pages found in in the posts
 
 <ul class="listing">
 {%- for page in collections.post -%}
