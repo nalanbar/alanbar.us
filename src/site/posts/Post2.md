@@ -12,6 +12,6 @@ Still, it could be worse. Much, much worse. You just need to get ahead of the de
 
 Your company sends you to VM World, and you sit through hours of seminars. Some good. Some not so good. And you randomly put your business card in a box, just to get some mints. You land, and this happens:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And the WINNER of the 2015 McLaren is <a href="https://twitter.com/NabilAlanbar?ref_src=twsrc%5Etfw">@NabilAlanbar</a> !! CONGRATULATIONS!</p>&mdash; HPE_SimpliVity (@HPE_SimpliVity) <a href="https://twitter.com/HPE_SimpliVity/status/504778182101577728?ref_src=twsrc%5Etfw">August 27, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And the WINNER of the 2015 McLaren is <a href="https://twitter.com/NabilAlanbar?ref_src=twsrc%5Etfw">@NabilAlanbar</a> !! CONGRATULATIONS!</p>&mdash; HPE_SimpliVity (@HPE_SimpliVity) <a href="https://twitter.com/HPE_SimpliVity/status/504778182101577728?ref_src=twsrc%5Etfw">August 27, 2014</a></blockquote>
 
 And your world changes, just a little bit.
