@@ -19,7 +19,7 @@ A few hours later, you hear an incredibly loud clanging noise. You jump to your 
 
 Welcome to San Francisco.
 
-<a class="embedly-card" data-card-controls="0" href="https://en.wikipedia.org/wiki/2014_South_Napa_earthquake">2014 South Napa earthquake</a>
+<a class="embedly-card" data-card-controls="0" data-card-theme="dark" href="https://en.wikipedia.org/wiki/2014_South_Napa_earthquake">2014 South Napa earthquake</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 So far, this trip is really shaping up well, you think. It'll be a great story someday, but right now, this sucks.
