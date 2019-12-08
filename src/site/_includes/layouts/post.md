@@ -9,7 +9,7 @@ templateEngineOverride: njk, md
 </p>
 <main>
   {{ content | safe }}
-  <div class="footnote">
+  <div class="footnote"; font-size: 0.6em;>
     <p>
       This page is part of the posts section.
     </p>
