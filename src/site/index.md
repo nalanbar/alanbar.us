@@ -1,6 +1,6 @@
 ---
-title: IamNabil Aviation 
-subtitle: The musings of an idiot, who dreamed of flying.<br /> Managed by <a href="https://twitter.com/nabilalanbar">Nabil</a>.
+title: Alanbar Aviation 
+subtitle: The musings of an idiot, who dreamed of flying.<br> <small>Managed by <a href="https://twitter.com/nabilalanbar">Nabil</a></small>.
 layout: layouts/base.njk
 ---
 ## This site is a training log.
