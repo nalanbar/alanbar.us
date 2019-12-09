@@ -8,7 +8,7 @@ layout: layouts/base.njk
 <h1>Tagged “{{ aviation }}”</h1>
 
 <ol>
-{% set taglist = collections[ tag ] %}
+{% set taglist = collections[ aviation ] %}
 {% for post in taglist | reverse %}
   <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
 {% endfor %}
