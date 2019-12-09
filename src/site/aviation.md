@@ -1,12 +1,8 @@
 ---
-title: IamNabil Aviation 
-subtitle: The musings of an idiot, who dreamed of flying.<br /> Managed by <a href="https://twitter.com/nabilalanbar">Nabil</a>.
+title: Aviation 
+subtitle: all posts tagged "aviation"
 layout: layouts/base.njk
 ---
-## This site is a training log.
-
-This site is meant to be a training log. I intend to use it to document my struggles and triumphs as I get my pilots license.
-
 ## Post pages
 
 <h1>Tagged “{{ aviation }}”</h1>
