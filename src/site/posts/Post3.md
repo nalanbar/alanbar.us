@@ -22,3 +22,6 @@ If you have won a large sum of money before, this won't come as a surprise to yo
 They give you a 1099MISC, and you add it to your income as though they paid you for a big job. Your income just went from 80k to 100k a year. 
 
 So... what does that do to your taxes?
+
+Well, if you are a normal American, playing the witholding game every paycheck, juggling you allowances, the answer to that question is "breaks them." You jump immediately from maybe getting a small tax refund (on your interest free loan to the Feds) to having to pay in. Figure something like 25% when all is said and done. Sure, you just got an extra $20,000, but you have to pay in $5,000, and nobody tells you how the process works. I am glad I asked before I started spending, because
+I could have really screwed myself.
