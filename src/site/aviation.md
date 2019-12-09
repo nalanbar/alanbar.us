@@ -3,7 +3,6 @@ title: Aviation
 subtitle: all posts tagged "aviation"
 layout: layouts/base.njk
 ---
-## Posts tagged Aviation
 
 <ol>
 {% set taglist = collections.aviation %}
