@@ -1,7 +1,7 @@
 ---
-title: About Nabil and site status
+title: About Nabil
 layout: layouts/base.njk
-subtitle: More than you probably want to know
+subtitle: And also site build status
 ---
 
 ## About Nabil
@@ -10,7 +10,7 @@ Nabil is a 30-something veteran who does technology, policy, and now, flying. He
 
 ## Hosting
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+This site is deployed by, and hosted by, [Netlify](https://www.netlify.com).
 
 <div class="nakedLink">
 
