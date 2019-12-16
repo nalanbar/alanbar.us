@@ -1,7 +1,7 @@
 ---
 title: The First One
 subtitle: Where I am and how I got here, part I
-date: created
+date: 6-dec-2019
 tags: 
     - aviation
     - post
