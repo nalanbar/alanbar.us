@@ -3,7 +3,8 @@ title: The One About the McLaren
 subtitle: Or how taxes work when you win money
 date: created
 tags: 
-    -draft
+    - aviation
+    - post
 ---
 And so after the tweet by Simplivity, I went home, changed, and went to bed. I mentioned it to my Caitlin, and she said, and this is a quote, "Ok." 
 
@@ -23,5 +24,10 @@ They give you a 1099MISC, and you add it to your income as though they paid you 
 
 So... what does that do to your taxes?
 
-Well, if you are a normal American, playing the witholding game every paycheck, juggling you allowances, the answer to that question is "breaks them." You jump immediately from maybe getting a small tax refund (on your interest free loan to the Feds) to having to pay in. Figure something like 25% when all is said and done. Sure, you just got an extra $20,000, but you have to pay in $5,000, and nobody tells you how the process works. I am glad I asked before I started spending, because
-I could have really screwed myself.
+Well, if you are a normal American, playing the witholding game every paycheck, juggling your allowances, and trying to "maximize your tax return," the answer to that question is "winning a supercar breaks your tax witholdings calculations." 
+
+If you are like most people, you don't think about your taxes that much. You fill out the allowance forms, hand them in, and hope you don't have to pay in at the end of the year. So what happens when you pay taxes on, say, $50,000 a year, and suddenly make $70,000? You have to pay in! 
+
+Probably a lot of money!
+
+Congratulations on your new tax status!
