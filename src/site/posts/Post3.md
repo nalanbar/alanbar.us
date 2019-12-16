@@ -1,7 +1,7 @@
 ---
 title: The One About the McLaren
 subtitle: Or how taxes work when you win money
-date: 13-dec-2019
+date: 2019-12-13
 tags: 
     - aviation
     - post

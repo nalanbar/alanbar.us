@@ -12,8 +12,9 @@ I intend to use it to document my struggles and triumphs as I get my pilots lice
 ## Post pages
 
 <ul class="listing">
-{%- for page in collections.post -%}
-  <li>
+{%- for page in collections.post | reverse -%}
+
+<li>
     <a href="{{ page.url }}">{{ page.data.title }}</a> -
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
   </li>
