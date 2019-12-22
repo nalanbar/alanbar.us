@@ -34,7 +34,7 @@ How step is that? Well for a new pilot in a small plane, it's hella steep.
 
 We flew to the north, and I pretty quickly established that I remembered the basics. Sayings like "look left, turn left" never really go away, since I say that when I am on my motorcycle, too. I managed to keep my eyes outside of the cockpit most of the time, and we spent a lot of time flying over northern Chittenden County, and southern Franklin County. It was pretty, certainly.
 
-<img src="https://alanbar.us/images/frozensaintalbans.jpeg" alt="Saint Albans to the north" width="100%"/>
+<img src="https://alanbar.us/images/frozenstalbans.jpeg" alt="Saint Albans to the north" width="100%"/>
 
 We had hoped to cross Lake Champlain, and practice touch and goes at Plattsburgh ([KPBG](https://www.airnav.com/airport/KPBG)) but the cloud cover just didn't allow it. Lake Champlain is still above freezing, and the air was, well you saw the METAR. Minus 16 C. The fog layer was so solid I could have gotten out and stood on top. 
 
