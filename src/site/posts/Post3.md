@@ -1,6 +1,6 @@
 ---
 title: The One About the McLaren
-subtitle: Or how taxes work when you win money
+subtitle: Where I am and how I got here, part II
 date: 2019-12-13
 tags: 
     - aviation
