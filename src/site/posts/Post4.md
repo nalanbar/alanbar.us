@@ -14,7 +14,7 @@ I met my new instructor (whose permission I do not yet have to name on this blog
 
 98V is a 1975 Cessna 172N, with long range tanks, a GTN650, and a very nice yellow paint job. The interior is only OK, but 98V is more about substance than style. 
 
-![98V](/images/n9698v.png "My first view of 98v 1" =100%)
+![98V](/images/n9698v.png "My first view of 98v 1" =100)
 
 <img src="https://alanbar.us/images/n9698v.png" alt="My first view of 98v" width="100%"/>
 
